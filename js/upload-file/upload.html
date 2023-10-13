@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple File Upload App</title>
+</head>
+
+<body>
+
+    <div>
+        <label for="accessToken">Access Token:</label>
+        <input type="text" id="accessToken" placeholder="Enter your access token">
+    </div>
+
+    <div>
+        <input type="file" id="fileInput">
+        <button onclick="uploadFile()">Upload</button>
+    </div>
+
+    <div id="message"></div>
+
+    <script>
+        function uploadFile() {
+            const fileInput = document.getElementById('fileInput');
+            const accessToken = document.getElementById('accessToken').value;
+            const messageDiv = document.getElementById('message');
+
+            if (!fileInput.files.length) {
+                messageDiv.innerText = "Please select a file to upload.";
+                return;
+            }
+
+            var myHeaders = new Headers();
+            myHeaders.append("Authorization", "Bearer " + accessToken);
+
+            var formdata = new FormData();
+            formdata.append("file", fileInput.files[0], fileInput.files[0].name);
+
+            var requestOptions = {
+                method: 'POST',
+                headers: myHeaders,
+                body: formdata,
+                redirect: 'follow'
+            };
+
+            fetch("https://api.docugami.com/v1preview1/documents/content", requestOptions)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error("Network response was not ok");
+                    }
+                    return response.text();
+                })
+                .then(result => {
+                    console.log(result);
+                    messageDiv.innerText = "File uploaded successfully!";
+                })
+                .catch(error => {
+                    console.log('error', error);
+                    messageDiv.innerText = "Error uploading file: " + error.message;
+                });
+        }
+    </script>
+
+</body>
+
+</html>
