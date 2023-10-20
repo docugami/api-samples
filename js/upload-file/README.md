@@ -1,6 +1,6 @@
 # Upload a File
 
-Sample that uses fetch to upload a file. 
+Sample that uses fetch to upload a file to Docugami.
 
 ## Dependencies
 None, just open in a browser.
