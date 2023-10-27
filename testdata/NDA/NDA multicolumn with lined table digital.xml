@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<docset:MUTUALNON-section cp:version="2.58.58.0.1698382795517-136.0"
+  xmlns:docset="http://www.docugami.com/2021/dgml/TaqiGenerativeLabels/MutualNon-DisclosureAgreement"
+  xmlns:addedChunks="http://www.docugami.com/2021/dgml/TaqiGenerativeLabels/MutualNon-DisclosureAgreement/addedChunks"
+  xmlns:dg="http://www.docugami.com/2021/dgml"
+  xmlns:dgc="http://www.docugami.com/2021/dgml/docugami/contracts"
+  xmlns:dgm="http://www.docugami.com/2021/dgml/docugami/medical"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:cp="http://classifyprocess.com/2018/07/">
+  <dg:chunk structure="h1"> MUTUAL NON-DISCLOSURE AGREEMENT</dg:chunk>
+  <docset:DISCLOSUREAGREEMENT-section structure="div">
+      <dg:chunk>
+        <docset:AgreementDate structure="p"> This Mutual Non-Disclosure Agreement (this “Agreement”)
+          is entered into and made effective as of <docset:AgreementDate>March 24, 2018 </docset:AgreementDate>
+          between <docset:CompanyName>Docugami Inc.</docset:CompanyName>, a <dgc:USState>Delaware </dgc:USState>corporation,
+          whose address is <docset:DocugamiAddress><docset:DocugamiAddress><docset:AgreementDate>150 </docset:AgreementDate><docset:Address>Lake
+          Street South</docset:Address>, <docset:Address>Suite <docset:AgreementDate>221</docset:AgreementDate></docset:Address></docset:DocugamiAddress>
+          , <docset:CompanyAddress>Kirkland</docset:CompanyAddress>, <dgc:USState>Washington </dgc:USState><docset:CompanyAddress>
+          98033</docset:CompanyAddress></docset:DocugamiAddress>, and <docset:RecipientName>Tran
+          Tharrington</docset:RecipientName>, an individual, whose address is <docset:TranTharringtonAddress><docset:Address>
+              <docset:AgreementDate>41 </docset:AgreementDate>
+              <docset:Address>Anawana Lake Road</docset:Address>
+            </docset:Address>, <dg:chunk>
+              <docset:Address>Monticello </docset:Address>
+              <docset:Address>NY </docset:Address>
+            </dg:chunk><docset:Address>12701</docset:Address></docset:TranTharringtonAddress>
+          . </docset:AgreementDate>
+        <docset:ConfidentialityofDiscussions structure="p">
+
+          The above named parties desire to engage in discussions regarding a potential agreement or
+          other transaction between the parties (the “Purpose”). In connection with such
+          discussions, it may be necessary for the parties to disclose to each other certain
+          confidential information or materials to enable them to evaluate whether to enter into
+          such agreement or transaction. </docset:ConfidentialityofDiscussions>
+        <dg:chunk>
+          <dg:chunk structure="p">
+
+            In consideration of the foregoing, the parties agree as follows: </dg:chunk>
+          <dg:chunk>
+            <dg:chunk>
+
+              <docset:ConfidentialityObligations structure="ol"
+                style="list-style-type: decimal; boundingBox:{left: 270.8; top: 1837.5; width: 929.2; height: 1158.3; page: 1;}; ">
+                <dg:chunk structure="li"
+                  style="boundingBox:{left: 270.8; top: 1837.5; width: 929.2; height: 1095.8; page: 1;}; ">
+                  <dg:chunk structure="lim"
+                    style="boundingBox:{left: 420.8; top: 1837.5; width: 37.5; height: 58.3; page: 1;}; ">
+                    1. </dg:chunk>
+                  <docset:ConfidentialInformation-section>
+                    <dg:chunk structure="h1"><dg:chunk>Confidential Information</dg:chunk>. </dg:chunk>
+                    <docset:ConfidentialInformation structure="div">For purposes of this Agreement,
+                      “<dg:chunk>Confidential Information</dg:chunk>” means any information or
+                      materials disclosed by one party to the other party that: (i) if disclosed in
+                      writing or in the form of tangible materials, is marked “confidential” or
+                      “proprietary” at the time of such disclosure; (ii) if disclosed orally or by
+                      visual presentation, is identified as “confidential” or “proprietary” at the
+                      time of such disclosure, and is summarized in a writing sent by the disclosing
+                      party to the receiving party within <docset:ConfidentialInformationSummaryDeadline>thirty
+                      (30) days </docset:ConfidentialInformationSummaryDeadline>after any such
+                      disclosure; or (iii) due to its nature or the circumstances of its disclosure,
+                      a person exercising reasonable business judgment would understand to be
+                      confidential or proprietary. </docset:ConfidentialInformation>
+                  </docset:ConfidentialInformation-section>
+                </dg:chunk>
+
+                <dg:chunk structure="li"
+                  style="boundingBox:{left: 420.8; top: 2935.7; width: 775.2; height: 60.1; page: 1;}; ">
+                  <dg:chunk structure="lim"
+                    style="boundingBox:{left: 420.8; top: 2933.3; width: 37.5; height: 62.5; page: 1;}; ">
+                    2. </dg:chunk>
+                  <dg:chunk>Obligations and Restrictions. </dg:chunk>
+                </dg:chunk>
+              </docset:ConfidentialityObligations>
+              <docset:EachPartyAgrees-section>
+                <dg:chunk structure="h1">
+
+                  Each party agrees: </dg:chunk>
+                <docset:EachPartyAgrees structure="div">(i) to maintain the other party's
+                  Confidential Information in strict confidence; (ii) not to disclose such
+                  Confidential Information to any third party; and (iii) not to use such
+                  Confidential Information for any purpose except for the Purpose. Each party may
+                  disclose the other party’s Confidential Information to its employees and
+                  consultants who have a bona fide need to know such Confidential Information for
+                  the Purpose, but solely to the extent necessary to pursue the Purpose and for no
+                  other purpose; provided, that each such employee and consultant first executes a
+                  written agreement (or is otherwise already bound by a written agreement) that
+                  contains use and nondisclosure restrictions at least as protective of the other
+                  party’s Confidential Information as those set forth in this Agreement. </docset:EachPartyAgrees>
+              </docset:EachPartyAgrees-section>
+            </dg:chunk>
+
+            <docset:ConfidentialityObligations structure="ol"
+              style="list-style-type: lower-roman; boundingBox:{left: 1350.0; top: 1400.1; width: 933.3; height: 1645.7; page: 1;}; ">
+              <dg:chunk structure="li"
+                style="boundingBox:{left: 1350.0; top: 1400.1; width: 933.3; height: 179.0; page: 1;}; ">
+                <dg:chunk structure="lim"
+                  style="boundingBox:{left: 1500.0; top: 1400.0; width: 41.7; height: 58.3; page: 1;}; ">
+                  3. </dg:chunk>
+                <docset:Exceptions-section>
+                  <dg:chunk structure="h1">Exceptions. </dg:chunk>
+                  <docset:Exceptions structure="div">The obligations and restrictions in Section 2
+                    will not apply to any information or materials that: </docset:Exceptions>
+                </docset:Exceptions-section>
+              </dg:chunk>
+
+              <dg:chunk structure="li"
+                style="boundingBox:{left: 1350.0; top: 1587.2; width: 933.3; height: 237.8; page: 1;}; ">
+                <dg:chunk structure="lim"
+                  style="boundingBox:{left: 1500.0; top: 1583.3; width: 41.7; height: 58.3; page: 1;}; ">
+                  (i) </dg:chunk>
+                <docset:PubliclyAvailableInformation structure="p">were, at the date of disclosure,
+                  or have subsequently become, generally known or available to the public through no
+                  act or failure to act by the receiving party; </docset:PubliclyAvailableInformation>
+              </dg:chunk>
+
+              <dg:chunk structure="li"
+                style="boundingBox:{left: 1350.0; top: 1825.0; width: 933.3; height: 245.8; page: 1;}; ">
+                <dg:chunk structure="lim"
+                  style="boundingBox:{left: 1500.0; top: 1825.0; width: 54.2; height: 62.5; page: 1;}; ">
+                  (ii) </dg:chunk>
+                <docset:ConfidentialityAgreement structure="p">were rightfully known by the
+                  receiving party prior to receiving such information or materials from the
+                  disclosing party; </docset:ConfidentialityAgreement>
+              </dg:chunk>
+
+              <dg:chunk structure="li"
+                style="boundingBox:{left: 1350.0; top: 2070.8; width: 933.3; height: 304.2; page: 1;}; ">
+                <dg:chunk structure="lim"
+                  style="boundingBox:{left: 1500.0; top: 2070.8; width: 66.7; height: 58.3; page: 1;}; ">
+                  (iii) </dg:chunk>
+                <docset:ConfidentialityofInformation structure="p">are rightfully acquired by the
+                  receiving party from a third party who has the right to disclose such information
+                  or materials without breach of any confidentiality obligation to the disclosing
+                  party; or </docset:ConfidentialityofInformation>
+              </dg:chunk>
+
+              <dg:chunk structure="li"
+                style="boundingBox:{left: 1350.0; top: 2378.7; width: 933.3; height: 237.9; page: 1;}; ">
+                <dg:chunk structure="lim"
+                  style="boundingBox:{left: 1500.0; top: 2375.0; width: 66.7; height: 58.3; page: 1;}; ">
+                  (iv) </dg:chunk>
+                <docset:ConfidentialityofInformation structure="p">are independently developed by
+                  the receiving party without access to any <dg:chunk>Confidential Information </dg:chunk>of
+                  the disclosing party. </docset:ConfidentialityofInformation>
+              </dg:chunk>
+
+              <dg:chunk structure="li"
+                style="boundingBox:{left: 1350.0; top: 2620.8; width: 933.3; height: 425.0; page: 1;}; ">
+                <dg:chunk structure="lim"
+                  style="boundingBox:{left: 1500.0; top: 2620.8; width: 41.7; height: 58.3; page: 1;}; ">
+                  4. </dg:chunk>
+                <docset:CompelledDisclosure-section>
+                  <dg:chunk structure="h1">Compelled Disclosure. </dg:chunk>
+                  <docset:CompelledDisclosure structure="div">Nothing in this Agreement will be
+                    deemed to restrict a party from disclosing the other party’s Confidential
+                    Information to the extent required by any order, subpoena, law, statute or
+                    regulation; provided, that the party required to make such a disclosure uses
+                    reasonable efforts to give the other party reasonable advance notice of such
+                    required disclosure in order to enable the other party to prevent or limit such
+                    disclosure. </docset:CompelledDisclosure>
+                </docset:CompelledDisclosure-section>
+              </dg:chunk>
+            </docset:ConfidentialityObligations>
+
+            <docset:ConfidentialityObligations structure="ol"
+              style="list-style-type: decimal; boundingBox:{left: 270.8; top: 362.5; width: 2012.5; height: 2620.8; page: 2;}; ">
+              <dg:chunk structure="li"
+                style="boundingBox:{left: 270.8; top: 483.3; width: 929.2; height: 975.0; page: 2;}; ">
+                <dg:chunk structure="lim"
+                  style="boundingBox:{left: 420.8; top: 483.3; width: 37.5; height: 58.3; page: 2;}; ">
+                  5. </dg:chunk>
+                <docset:ReturnofConfidentialInformation-section>
+                  <dg:chunk structure="h1">Return of <dg:chunk>Confidential Information</dg:chunk>. </dg:chunk>
+                  <docset:ReturnofConfidentialInformation structure="div">Upon the completion or
+                    abandonment of the Purpose, and in any event upon the disclosing party’s
+                    request, the receiving party will promptly return to the disclosing party all
+                    tangible items and embodiments containing or consisting of the disclosing
+                    party’s Confidential Information and all copies thereof (including electronic
+                    copies), and any notes, analyses, compilations, studies, interpretations,
+                    memoranda or other documents (regardless of the form thereof) prepared by or on
+                    behalf of the receiving party that contain or are based upon the disclosing
+                    party’s Confidential Information. </docset:ReturnofConfidentialInformation>
+                </docset:ReturnofConfidentialInformation-section>
+              </dg:chunk>
+
+              <dg:chunk structure="li"
+                style="boundingBox:{left: 270.8; top: 1462.5; width: 929.2; height: 483.3; page: 2;}; ">
+                <dg:chunk structure="lim"
+                  style="boundingBox:{left: 420.8; top: 1462.5; width: 37.5; height: 58.3; page: 2;}; ">
+                  6. </dg:chunk>
+                <docset:NoObligations-section>
+                  <dg:chunk structure="h1"><dg:chunk>No Obligations</dg:chunk>. </dg:chunk>
+                  <docset:NoObligations structure="div">Each party retains the right, in its sole
+                    discretion, to determine whether to disclose any <dg:chunk>Confidential
+                    Information </dg:chunk>to the other party. Neither party will be required to
+                    negotiate nor enter into any other agreements or arrangements with the other
+                    party, whether or not related to the Purpose. </docset:NoObligations>
+                </docset:NoObligations-section>
+              </dg:chunk>
+
+              <dg:chunk structure="li"
+                style="boundingBox:{left: 270.8; top: 1950.0; width: 929.2; height: 666.7; page: 2;}; ">
+                <dg:chunk structure="lim"
+                  style="boundingBox:{left: 420.8; top: 1950.0; width: 37.5; height: 58.3; page: 2;}; ">
+                  7. </dg:chunk>
+                <docset:NoLicense-section>
+                  <dg:chunk structure="h1">No License. </dg:chunk>
+                  <docset:NoLicense structure="div">All <dg:chunk>Confidential Information </dg:chunk>remains
+                    the sole and exclusive property of the disclosing party. Each party acknowledges
+                    and agrees that nothing in this Agreement will be construed as granting any
+                    rights to the receiving party, by license or otherwise, in or to any <dg:chunk>Confidential
+                    Information </dg:chunk>of the disclosing party, or any patent, copyright or
+                    other intellectual property or proprietary rights of the disclosing party,
+                    except as specified in this Agreement. </docset:NoLicense>
+                </docset:NoLicense-section>
+              </dg:chunk>
+
+              <dg:chunk structure="li"
+                style="boundingBox:{left: 270.8; top: 2620.8; width: 929.2; height: 179.2; page: 2;}; ">
+                <dg:chunk structure="lim"
+                  style="boundingBox:{left: 420.8; top: 2620.8; width: 37.5; height: 58.3; page: 2;}; ">
+                  8. </dg:chunk>
+                <docset:NoWarranty-section>
+                  <dg:chunk structure="h1">No Warranty. </dg:chunk>
+                  <docset:NoWarranty structure="div">ALL <dg:chunk>CONFIDENTIAL INFORMATION </dg:chunk>IS
+                    PROVIDED BY THE DISCLOSING PARTY “AS IS”. </docset:NoWarranty>
+                </docset:NoWarranty-section>
+              </dg:chunk>
+
+              <dg:chunk structure="li"
+                style="boundingBox:{left: 270.8; top: 2807.1; width: 929.2; height: 176.2; page: 2;}; ">
+                <dg:chunk structure="lim"
+                  style="boundingBox:{left: 420.8; top: 2804.2; width: 37.5; height: 58.3; page: 2;}; ">
+                  9. </dg:chunk>
+                <docset:Term-section>
+                  <dg:chunk structure="h1">Term. </dg:chunk>
+                  <docset:Term structure="div">This Agreement will remain in effect for a period of <docset:AgreementTerm>five
+                    (5) years </docset:AgreementTerm>from the date of last disclosure of <dg:chunk>Confidential
+                    Information </dg:chunk>by either party, at which time it will terminate. </docset:Term>
+                </docset:Term-section>
+              </dg:chunk>
+
+              <dg:chunk structure="li"
+                style="boundingBox:{left: 1350.0; top: 362.5; width: 933.3; height: 791.7; page: 2;}; ">
+                <dg:chunk structure="lim"
+                  style="boundingBox:{left: 1500.0; top: 362.5; width: 66.7; height: 58.3; page: 2;}; ">
+                  10. </dg:chunk>
+                <docset:EquitableRelief-section>
+                  <dg:chunk structure="h1"><dg:chunk>Equitable Relief</dg:chunk>. </dg:chunk>
+                  <docset:EquitableRelief structure="div">Each party acknowledges that the
+                    unauthorized use or disclosure of the disclosing party’s Confidential
+                    Information may cause the disclosing party to incur irreparable harm and
+                    significant damages, the degree of which may be difficult to ascertain.
+                    Accordingly, each party agrees that the disclosing party will have the right to
+                    seek immediate equitable relief to enjoin any unauthorized use or disclosure of
+                    its Confidential Information, in addition to any other rights and remedies that
+                    it may have at law or otherwise. </docset:EquitableRelief>
+                </docset:EquitableRelief-section>
+              </dg:chunk>
+
+              <dg:chunk structure="li"
+                style="boundingBox:{left: 1350.0; top: 1155.9; width: 933.3; height: 1819.1; page: 2;}; ">
+                <dg:chunk structure="lim"
+                  style="boundingBox:{left: 1500.0; top: 1154.2; width: 66.7; height: 62.5; page: 2;}; ">
+                  11. </dg:chunk>
+                <docset:Miscellaneous-section>
+                  <dg:chunk structure="h1">Miscellaneous. </dg:chunk>
+                  <docset:Miscellaneous structure="div">This Agreement will be governed and
+                    construed in accordance with the laws of the State of <dgc:USState>Washington</dgc:USState>,
+                    excluding its body of law controlling conflict of laws. This Agreement is the
+                    complete and exclusive understanding and agreement between the parties regarding
+                    the subject matter of this Agreement and supersedes all prior agreements,
+                    understandings and communications, oral or written, between the parties
+                    regarding the subject matter of this Agreement. If any provision of this
+                    Agreement is held invalid or unenforceable by a court of competent jurisdiction,
+                    that provision of this Agreement will be enforced to the maximum extent
+                    permissible and the other provisions of this Agreement will remain in full force
+                    and effect. Neither party may assign this Agreement, in whole or in part, by
+                    operation of law or otherwise, without the other party’s prior written consent,
+                    and any attempted assignment without such consent will be void. This Agreement
+                    may be executed in counterparts, each of which will be deemed an original, but
+                    all of which together will constitute one and the same instrument. </docset:Miscellaneous>
+                </docset:Miscellaneous-section>
+                <dg:chunk structure="h1">
+
+                  [SIGNATURE PAGE FOLLOWS] </dg:chunk>
+              </dg:chunk>
+            </docset:ConfidentialityObligations>
+          </dg:chunk>
+        </dg:chunk>
+      </dg:chunk>
+      <dg:chunk>
+        <dg:chunk>
+          <dg:chunk structure="h1"> IN <dg:chunk>WITNESS WHEREOF</dg:chunk>, </dg:chunk>
+          <dg:chunk structure="div">
+            <docset:SignaturePage structure="p">the parties hereto have executed this Mutual
+              Non-Disclosure Agreement by their duly authorized officers or representatives as of
+              the date first set forth above. </docset:SignaturePage>
+
+            <docset:KeyMilestones>
+              <xhtml:table structure="table"
+                style="boundingBox:{left: 320.8; top: 479.2; width: 1959.1; height: 471.3; page: 3;}; ">
+                <xhtml:tbody structure="tbody"
+                  style="boundingBox:{left: 320.8; top: 479.2; width: 1959.1; height: 471.3; page: 3;}; ">
+                  <xhtml:tr structure="tr"
+                    style="boundingBox:{left: 320.8; top: 479.2; width: 1959.1; height: 74.8; page: 3;}; ">
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 320.8; top: 479.2; width: 902.5; height: 74.8; page: 3;}; "
+                      colspan="2">
+                      <dg:chunk structure="h1"><docset:CompanyName><dg:chunk>DOCUGAMI INC</dg:chunk>
+                        .</docset:CompanyName>: </dg:chunk>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 1223.3; top: 479.2; width: 623.2; height: 74.8; page: 3;}; "
+                      colspan="2">
+                      <docset:DocugamiInc structure="h1"><dg:chunk>
+                          <docset:Name>Tran </docset:Name>
+                          <docset:Author>Tharrington</docset:Author>
+                        </dg:chunk>
+                        : </docset:DocugamiInc>
+                    </xhtml:td>
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 1846.5; top: 479.2; width: 433.5; height: 74.8; page: 3;}; " />
+                  </xhtml:tr>
+
+                  <xhtml:tr structure="tr"
+                    style="boundingBox:{left: 320.8; top: 553.9; width: 1959.1; height: 119.6; page: 3;}; ">
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 320.8; top: 553.9; width: 246.2; height: 119.6; page: 3;}; ">
+                      <docset:DOCUGAMIINCSignature structure="h1">Signature: </docset:DOCUGAMIINCSignature>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 567.0; top: 553.9; width: 656.3; height: 119.6; page: 3;}; ">
+                      <docset:Signature>_fdfoed, </docset:Signature>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 1223.3; top: 553.9; width: 391.2; height: 119.6; page: 3;}; ">
+                      <docset:Signature structure="h1">Signature: </docset:Signature>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 1614.6; top: 553.9; width: 665.4; height: 119.6; page: 3;}; "
+                      colspan="2">
+                      <docset:Signature><docset:DOCUGAMIINC>OLey </docset:DOCUGAMIINC>Lx </docset:Signature>
+                    </xhtml:td>
+                  </xhtml:tr>
+
+                  <xhtml:tr structure="tr"
+                    style="boundingBox:{left: 320.8; top: 673.5; width: 1959.1; height: 57.5; page: 3;}; ">
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 320.8; top: 673.5; width: 246.2; height: 57.5; page: 3;}; " />
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 567.0; top: 673.5; width: 656.3; height: 57.5; page: 3;}; ">
+                      <docset:TranTharrington>as </docset:TranTharrington>
+                    </xhtml:td>
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 1223.3; top: 673.5; width: 391.2; height: 57.5; page: 3;}; " />
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 1614.6; top: 673.5; width: 231.9; height: 57.5; page: 3;}; ">
+                      Ye </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 1846.5; top: 673.5; width: 433.5; height: 57.5; page: 3;}; ">
+                      Cy </xhtml:td>
+                  </xhtml:tr>
+
+                  <xhtml:tr structure="tr"
+                    style="boundingBox:{left: 320.8; top: 731.1; width: 1959.1; height: 118.0; page: 3;}; ">
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 320.8; top: 731.1; width: 246.2; height: 118.0; page: 3;}; ">
+                      <docset:DOCUGAMIINCName structure="h1">Name: </docset:DOCUGAMIINCName>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 567.0; top: 731.1; width: 656.3; height: 118.0; page: 3;}; ">
+                      <docset:Name>
+                        <docset:Name>Taqi </docset:Name>
+                        <docset:AuthorName>Jaffri </docset:AuthorName>
+                      </docset:Name>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 1223.3; top: 731.1; width: 391.2; height: 118.0; page: 3;}; ">
+                      <docset:Name structure="h1">Name: </docset:Name>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 1614.6; top: 731.1; width: 665.4; height: 118.0; page: 3;}; "
+                      colspan="2">
+                      <docset:Name>
+                        <docset:Name>Tran </docset:Name>
+                        <docset:Author>Tharrington </docset:Author>
+                      </docset:Name>
+                    </xhtml:td>
+                  </xhtml:tr>
+
+                  <xhtml:tr structure="tr"
+                    style="boundingBox:{left: 320.8; top: 849.1; width: 1959.1; height: 101.4; page: 3;}; ">
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 320.8; top: 849.1; width: 246.2; height: 101.4; page: 3;}; ">
+                      <docset:DOCUGAMIINCTitle structure="h1">Title: </docset:DOCUGAMIINCTitle>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 567.0; top: 849.1; width: 656.3; height: 101.4; page: 3;}; ">
+                      <docset:Title>Head of Product </docset:Title>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 1223.3; top: 849.1; width: 391.2; height: 101.4; page: 3;}; ">
+                      <docset:Title structure="h1">Title: </docset:Title>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 1614.6; top: 849.1; width: 665.4; height: 101.4; page: 3;}; "
+                      colspan="2">
+                      <docset:Title>Awesome Dude </docset:Title>
+                    </xhtml:td>
+                  </xhtml:tr>
+                </xhtml:tbody>
+              </xhtml:table>
+            </docset:KeyMilestones>
+          </dg:chunk>
+        </dg:chunk>
+        <docset:APPENDIXAMILESTONES-section>
+          <dg:chunk structure="h1">
+
+            <dg:chunk>APPENDIX A</dg:chunk>: MILESTONES </dg:chunk>
+          <docset:APPENDIXAMILESTONES structure="div">
+            <dg:chunk structure="h1">
+
+              The following key milestones are noted as an addendum to this agreement: </dg:chunk>
+
+            <docset:KeyMilestones>
+              <xhtml:table structure="table"
+                style="boundingBox:{left: 304.9; top: 1339.8; width: 1949.0; height: 745.0; page: 3;}; ">
+                <xhtml:tbody structure="tbody"
+                  style="boundingBox:{left: 304.9; top: 1339.8; width: 1949.0; height: 745.0; page: 3;}; ">
+                  <xhtml:tr structure="tr"
+                    style="boundingBox:{left: 304.9; top: 1339.8; width: 1949.0; height: 65.0; page: 3;}; ">
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 304.9; top: 1339.8; width: 649.0; height: 65.0; page: 3;}; ">
+                      <dg:chunk structure="h1">Description </dg:chunk>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 953.9; top: 1339.8; width: 651.0; height: 65.0; page: 3;}; ">
+                      <dg:chunk structure="h1">Due </dg:chunk>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 1604.9; top: 1339.8; width: 649.0; height: 65.0; page: 3;}; ">
+                      <dg:chunk structure="h1">Amount Payable </dg:chunk>
+                    </xhtml:td>
+                  </xhtml:tr>
+
+                  <xhtml:tr structure="tr"
+                    style="boundingBox:{left: 304.9; top: 1405.8; width: 1949.0; height: 62.0; page: 3;}; ">
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 304.9; top: 1404.8; width: 649.0; height: 63.0; page: 3;}; ">
+                      <docset:Description>First Milestone </docset:Description>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 953.9; top: 1404.8; width: 651.0; height: 63.0; page: 3;}; ">
+                      <docset:Due>February 15, 2021 </docset:Due>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 1604.9; top: 1404.8; width: 649.0; height: 63.0; page: 3;}; ">
+                      <docset:AmountPayable>$1,000 </docset:AmountPayable>
+                    </xhtml:td>
+                  </xhtml:tr>
+
+                  <xhtml:tr structure="tr"
+                    style="boundingBox:{left: 304.9; top: 1468.8; width: 1949.0; height: 61.0; page: 3;}; ">
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 304.9; top: 1467.8; width: 649.0; height: 62.0; page: 3;}; ">
+                      <docset:Description>Second Milestone </docset:Description>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 953.9; top: 1467.8; width: 651.0; height: 62.0; page: 3;}; ">
+                      <docset:Due>March 15, 2021 </docset:Due>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 1604.9; top: 1467.8; width: 649.0; height: 62.0; page: 3;}; ">
+                      <docset:AmountPayable>$10,000 </docset:AmountPayable>
+                    </xhtml:td>
+                  </xhtml:tr>
+
+                  <xhtml:tr structure="tr"
+                    style="boundingBox:{left: 304.9; top: 1530.8; width: 1949.0; height: 246.0; page: 3;}; ">
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 304.9; top: 1529.8; width: 649.0; height: 247.0; page: 3;}; ">
+                      <docset:Description>Third Milestone </docset:Description>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 953.9; top: 1529.8; width: 651.0; height: 247.0; page: 3;}; ">
+                      <docset:Due>
+                        <docset:Deadline structure="p">June 15, 2021 </docset:Deadline>
+                        <dg:chunk structure="p">
+
+                          Note: this is an estimated date, subject to change </dg:chunk>
+                      </docset:Due>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 1604.9; top: 1529.8; width: 649.0; height: 247.0; page: 3;}; ">
+                      <docset:AmountPayable>$10,000 </docset:AmountPayable>
+                    </xhtml:td>
+                  </xhtml:tr>
+
+                  <xhtml:tr structure="tr"
+                    style="boundingBox:{left: 304.9; top: 1777.8; width: 1949.0; height: 184.0; page: 3;}; ">
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 304.9; top: 1776.8; width: 649.0; height: 185.0; page: 3;}; ">
+                      <docset:Description>Extended Support </docset:Description>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 953.9; top: 1776.8; width: 651.0; height: 185.0; page: 3;}; ">
+                      <docset:Due>(ongoing) </docset:Due>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 1604.9; top: 1776.8; width: 649.0; height: 185.0; page: 3;}; ">
+                      <docset:AmountPayable><docset:MonthlySalary>$1000 </docset:MonthlySalary>per
+                        month </docset:AmountPayable>
+                    </xhtml:td>
+                  </xhtml:tr>
+
+                  <xhtml:tr structure="tr"
+                    style="boundingBox:{left: 304.9; top: 1962.8; width: 1949.0; height: 122.0; page: 3;}; ">
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 304.9; top: 1961.8; width: 1300.0; height: 123.0; page: 3;}; "
+                      colspan="2">
+                      <docset:DescriptionTotal>Total: </docset:DescriptionTotal>
+                    </xhtml:td>
+
+                    <xhtml:td structure="td"
+                      style="boundingBox:{left: 1604.9; top: 1961.8; width: 649.0; height: 123.0; page: 3;}; ">
+                      <docset:Total><docset:FundingAmount>$21,000 </docset:FundingAmount>(plus
+                        ongoing support) </docset:Total>
+                    </xhtml:td>
+                  </xhtml:tr>
+                </xhtml:tbody>
+              </xhtml:table>
+            </docset:KeyMilestones>
+          </docset:APPENDIXAMILESTONES>
+        </docset:APPENDIXAMILESTONES-section>
+      </dg:chunk>
+  </docset:DISCLOSUREAGREEMENT-section>
+</docset:MUTUALNON-section>
