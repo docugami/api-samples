@@ -1,13 +1,17 @@
+import os
 from pathlib import Path
 import typer
 import requests
 
 app = typer.Typer()
 
+access_token = os.environ.get("DOCUGAMI_API_KEY")
+if not access_token:
+    raise Exception("Please set Docugami API key environment variable")
+
 
 @app.command()
 def upload_file(
-    access_token: str,
     file_path: Path = typer.Option(
         file_okay=True,
         dir_okay=False,
@@ -18,9 +22,6 @@ def upload_file(
 ):
     """
     Upload a file to Docugami.
-
-    :param file_path: Path to the file you want to upload.
-    :param access_token: Docugami API access token.
     """
 
     try:
@@ -37,6 +38,7 @@ def upload_file(
 
             if response.ok:
                 typer.echo("File uploaded successfully!")
+                typer.echo(response.text)
             else:
                 typer.echo(f"Error uploading file: {response.status_code}")
     except FileNotFoundError:
